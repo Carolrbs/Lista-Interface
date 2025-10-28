@@ -1,0 +1,17 @@
+C:\Users\Ana_R\Downloads\Federal\ExeInterface01\ExeInterface01\bin\Debug\net8.0-windows\ExeInterface01.exe
+C:\Users\Ana_R\Downloads\Federal\ExeInterface01\ExeInterface01\bin\Debug\net8.0-windows\ExeInterface01.deps.json
+C:\Users\Ana_R\Downloads\Federal\ExeInterface01\ExeInterface01\bin\Debug\net8.0-windows\ExeInterface01.runtimeconfig.json
+C:\Users\Ana_R\Downloads\Federal\ExeInterface01\ExeInterface01\bin\Debug\net8.0-windows\ExeInterface01.dll
+C:\Users\Ana_R\Downloads\Federal\ExeInterface01\ExeInterface01\bin\Debug\net8.0-windows\ExeInterface01.pdb
+C:\Users\Ana_R\Downloads\Federal\ExeInterface01\ExeInterface01\obj\Debug\net8.0-windows\ExeInterface01.Form1.resources
+C:\Users\Ana_R\Downloads\Federal\ExeInterface01\ExeInterface01\obj\Debug\net8.0-windows\ExeInterface01.csproj.GenerateResource.cache
+C:\Users\Ana_R\Downloads\Federal\ExeInterface01\ExeInterface01\obj\Debug\net8.0-windows\ExeInterface01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana_R\Downloads\Federal\ExeInterface01\ExeInterface01\obj\Debug\net8.0-windows\ExeInterface01.AssemblyInfoInputs.cache
+C:\Users\Ana_R\Downloads\Federal\ExeInterface01\ExeInterface01\obj\Debug\net8.0-windows\ExeInterface01.AssemblyInfo.cs
+C:\Users\Ana_R\Downloads\Federal\ExeInterface01\ExeInterface01\obj\Debug\net8.0-windows\ExeInterface01.csproj.CoreCompileInputs.cache
+C:\Users\Ana_R\Downloads\Federal\ExeInterface01\ExeInterface01\obj\Debug\net8.0-windows\ExeInterface01.sourcelink.json
+C:\Users\Ana_R\Downloads\Federal\ExeInterface01\ExeInterface01\obj\Debug\net8.0-windows\ExeInterface01.dll
+C:\Users\Ana_R\Downloads\Federal\ExeInterface01\ExeInterface01\obj\Debug\net8.0-windows\refint\ExeInterface01.dll
+C:\Users\Ana_R\Downloads\Federal\ExeInterface01\ExeInterface01\obj\Debug\net8.0-windows\ExeInterface01.pdb
+C:\Users\Ana_R\Downloads\Federal\ExeInterface01\ExeInterface01\obj\Debug\net8.0-windows\ExeInterface01.genruntimeconfig.cache
+C:\Users\Ana_R\Downloads\Federal\ExeInterface01\ExeInterface01\obj\Debug\net8.0-windows\ref\ExeInterface01.dll

@@ -1,0 +1,17 @@
+C:\Users\Ana_R\Downloads\Federal\ExeInterface02\ExeInterface02\obj\Debug\net8.0-windows\ExeInterface02.Aresta.resources
+C:\Users\Ana_R\Downloads\Federal\ExeInterface02\ExeInterface02\obj\Debug\net8.0-windows\ExeInterface02.csproj.GenerateResource.cache
+C:\Users\Ana_R\Downloads\Federal\ExeInterface02\ExeInterface02\obj\Debug\net8.0-windows\ExeInterface02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana_R\Downloads\Federal\ExeInterface02\ExeInterface02\obj\Debug\net8.0-windows\ExeInterface02.AssemblyInfoInputs.cache
+C:\Users\Ana_R\Downloads\Federal\ExeInterface02\ExeInterface02\obj\Debug\net8.0-windows\ExeInterface02.AssemblyInfo.cs
+C:\Users\Ana_R\Downloads\Federal\ExeInterface02\ExeInterface02\obj\Debug\net8.0-windows\ExeInterface02.csproj.CoreCompileInputs.cache
+C:\Users\Ana_R\Downloads\Federal\ExeInterface02\ExeInterface02\obj\Debug\net8.0-windows\ExeInterface02.sourcelink.json
+C:\Users\Ana_R\Downloads\Federal\ExeInterface02\ExeInterface02\bin\Debug\net8.0-windows\ExeInterface02.exe
+C:\Users\Ana_R\Downloads\Federal\ExeInterface02\ExeInterface02\bin\Debug\net8.0-windows\ExeInterface02.deps.json
+C:\Users\Ana_R\Downloads\Federal\ExeInterface02\ExeInterface02\bin\Debug\net8.0-windows\ExeInterface02.runtimeconfig.json
+C:\Users\Ana_R\Downloads\Federal\ExeInterface02\ExeInterface02\bin\Debug\net8.0-windows\ExeInterface02.dll
+C:\Users\Ana_R\Downloads\Federal\ExeInterface02\ExeInterface02\bin\Debug\net8.0-windows\ExeInterface02.pdb
+C:\Users\Ana_R\Downloads\Federal\ExeInterface02\ExeInterface02\obj\Debug\net8.0-windows\ExeInterface02.dll
+C:\Users\Ana_R\Downloads\Federal\ExeInterface02\ExeInterface02\obj\Debug\net8.0-windows\refint\ExeInterface02.dll
+C:\Users\Ana_R\Downloads\Federal\ExeInterface02\ExeInterface02\obj\Debug\net8.0-windows\ExeInterface02.pdb
+C:\Users\Ana_R\Downloads\Federal\ExeInterface02\ExeInterface02\obj\Debug\net8.0-windows\ExeInterface02.genruntimeconfig.cache
+C:\Users\Ana_R\Downloads\Federal\ExeInterface02\ExeInterface02\obj\Debug\net8.0-windows\ref\ExeInterface02.dll
