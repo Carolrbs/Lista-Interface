@@ -1,0 +1,11 @@
+C:\Users\Ana_R\Downloads\Federal\Interface04\Interface04\bin\Debug\Interface04.exe.config
+C:\Users\Ana_R\Downloads\Federal\Interface04\Interface04\bin\Debug\Interface04.exe
+C:\Users\Ana_R\Downloads\Federal\Interface04\Interface04\bin\Debug\Interface04.pdb
+C:\Users\Ana_R\Downloads\Federal\Interface04\Interface04\obj\Debug\Interface04.csproj.AssemblyReference.cache
+C:\Users\Ana_R\Downloads\Federal\Interface04\Interface04\obj\Debug\Interface04.Form1.resources
+C:\Users\Ana_R\Downloads\Federal\Interface04\Interface04\obj\Debug\Interface04.Properties.Resources.resources
+C:\Users\Ana_R\Downloads\Federal\Interface04\Interface04\obj\Debug\Interface04.csproj.GenerateResource.cache
+C:\Users\Ana_R\Downloads\Federal\Interface04\Interface04\obj\Debug\Interface04.csproj.CoreCompileInputs.cache
+C:\Users\Ana_R\Downloads\Federal\Interface04\Interface04\obj\Debug\Interface04.exe
+C:\Users\Ana_R\Downloads\Federal\Interface04\Interface04\obj\Debug\Interface04.pdb
+C:\Users\Ana_R\Downloads\Federal\Interface04\Interface04\obj\Debug\Interface04.exe.config
